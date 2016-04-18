@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">CardMenu</string>
+
+    <string name="m_bike">BIKE</string>
+    <string name="m_boat">BOAT</string>
+    <string name="m_car">CAR</string>
+    <string name="m_airport">AIRPORT</string>
+</resources>
