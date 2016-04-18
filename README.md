@@ -1,6 +1,8 @@
 # CardMenu
 
-CardMenu is a simple and beautiful menu container
+CardMenu is a simple and beautiful menu container.
+
+ideal from [http://www.materialup.com/posts/menu-interface-resources](http://www.materialup.com/posts/menu-interface-resources).
 
 # How to include
 
