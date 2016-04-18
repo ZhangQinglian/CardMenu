@@ -6,10 +6,11 @@ CardMenu is a simple and beautiful menu container
 
 Add the library to your module **build.gradle**:
 
+```gradle
 dependencies {
     compile compile 'com.zql.android:cardmenulib:1.0'
 }
-
+```
 # usage
 
 **layout**
