@@ -46,7 +46,7 @@ dependencies {
     menu.initMenus(names, icons, null);
 ```
 
-![](http://7xprgn.com1.z0.glb.clouddn.com/2016-04-18%2019_07_39.gif)
+![](http://7xprgn.com1.z0.glb.clouddn.com/2016-06-07%2009_58_54.gif)
 
 #License
 
